@@ -1,0 +1,1 @@
+date: 2023-11-12 11:27:44.112316; name: fg; args: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],), kwargs: {}; result: (['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]).

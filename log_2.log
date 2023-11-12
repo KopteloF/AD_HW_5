@@ -1,0 +1,4 @@
+date: 2023-11-12 11:32:15.592468; name: hello_world; args: (), kwargs: {}; result: Hello World.
+date: 2023-11-12 11:32:16.593559; name: summator; args: (2, 2), kwargs: {}; result: 4.
+date: 2023-11-12 11:32:17.594682; name: div; args: (6, 2), kwargs: {}; result: 3.0.
+date: 2023-11-12 11:32:18.595851; name: summator; args: (4.3,), kwargs: {'b': 2.2}; result: 6.5.
